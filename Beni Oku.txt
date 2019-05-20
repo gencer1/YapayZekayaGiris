@@ -1,3 +1,3 @@
-+Sistemdeki konuşma fonksiyonunun çalışabilmesi için "KurulmasıGereken" klasöründeki programın kurulması gerekiyor.
-+Veri tabanı için MSSQL.cs classındaki bağlantı cümlesi de değişmeli.	
-+Veri tabanı yapısı "KurulmasıGereken" klasörünün içindeki scriptte mevcut (Veritabanı ismi YZekaDb).
++Sistemdeki konuÅŸma fonksiyonunun Ã§alÄ±ÅŸabilmesi iÃ§in "setup_espeak-1.48.04" programÄ±n kurulmasÄ± gerekiyor.
++Veri tabanÄ± iÃ§in MSSQL.cs classÄ±ndaki baÄŸlantÄ± cÃ¼mlesi de deÄŸiÅŸmeli.	
++Veri tabanÄ± yapÄ±sÄ± "vtModel.sql" scriptinde mevcut (VeritabanÄ± ismi YZekaDb).
