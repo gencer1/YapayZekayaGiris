@@ -1,0 +1,3 @@
++Sistemdeki konuşma fonksiyonunun çalışabilmesi için "KurulmasıGereken" klasöründeki programın kurulması gerekiyor.
++Veri tabanı için MSSQL.cs classındaki bağlantı cümlesi de değişmeli.	
++Veri tabanı yapısı "KurulmasıGereken" klasörünün içindeki scriptte mevcut (Veritabanı ismi YZekaDb).
